@@ -1,9 +1,6 @@
 # README
-<<<<<<< HEAD
 ## how to use GitHub Desktop
 ## how to use git revert
-=======
->>>>>>> parent of 601fe63... Update README.md
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
